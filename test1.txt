@@ -1,0 +1,1 @@
+Java 10 Method reference is used to refer method of functional interface . 

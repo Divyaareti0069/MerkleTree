@@ -1,0 +1,1 @@
+It is compact and easy form of lambda expression.

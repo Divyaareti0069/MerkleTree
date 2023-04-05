@@ -1,0 +1,1 @@
+Functional interfaces are also known as Single Abstract Method Interfaces (SAM Interfaces).
